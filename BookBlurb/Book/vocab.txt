@@ -1,0 +1,9 @@
+version
+truncation
+padding
+added_tokens
+normalizer
+pre_tokenizer
+post_processor
+decoder
+model
